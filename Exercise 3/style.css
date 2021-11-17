@@ -1,0 +1,29 @@
+body{
+  background-image: url(backgroundGif.gif); background-size: 100%;
+  text-align: center;
+}
+
+p{
+  color: white;
+  font-family: arial; font-size: 18pt;
+}
+
+p.paragraph{
+  background-color: white;
+  color: black;
+  font-size: 20pt;
+}
+
+a{
+  background-color: grey;
+  color: blue;
+  font-family: arial; font-size: 18pt;
+}
+
+a:hover{
+  color: purple;
+}
+
+br{
+  font-size: 1pt;
+}
