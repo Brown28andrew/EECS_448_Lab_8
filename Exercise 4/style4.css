@@ -1,0 +1,45 @@
+body{
+  background-color: rgb(80,100,150);
+}
+
+div.paragraph{
+  width: 95%;
+  height: 150px;
+  border: 2px;
+  border-style: solid;
+  border-color: black;
+  text-align: center;
+  font-family: Times;
+  font-size: 18pt;
+  background-color: white;
+  margin: 0 auto;
+
+}
+
+p.bord{
+  text-align: left;
+}
+
+p.bordTitle{
+  text-align: left;
+}
+
+button{
+  display: block;
+  margin: 0 auto;
+}
+
+div.border{
+  float: left;
+  width: 500px;
+  height: 500px;
+  margin: 0px;
+
+}
+
+div.background{
+  float: right;
+  width: 500px;
+  height: 500px;
+  margin: 0px;
+}
